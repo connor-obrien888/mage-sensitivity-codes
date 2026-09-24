@@ -1,0 +1,7 @@
+**/*.pdf
+**/*.png
+**/*.mp4
+**/*.h5
+supermag_api.py
+data/bezpy-data/*
+__pycache__
